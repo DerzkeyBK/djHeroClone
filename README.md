@@ -1,5 +1,5 @@
 # djHeroClone
-A little demo for my future(implying that`ll i ever find time enough to finish it) dj hero clone
+A little demo for my future(implying that`ll i ever find time enough to finish it) DJ Hero Clone
 
 It has 
 
